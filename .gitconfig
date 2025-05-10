@@ -1,0 +1,13 @@
+[user]
+  name = Swayam Aggarwal
+  email = swayam04smile@gmail.com
+
+[core]
+  editor = code --wait
+[color]
+  ui = auto
+[alias]
+  st = status
+  co = checkout
+  br = branch
+  ci = commit
